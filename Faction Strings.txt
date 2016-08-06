@@ -1,0 +1,38 @@
+-=Admin Needs To Whitelist
+USMGEN - United States General
+GMFGEN - German General
+
+USMCAPT - United States Captain
+GMFCAPT - German Captain
+
+USMMAJ - United States Major
+GMFMAJ - German Major
+
+USM1LT - United States 1st Lieutenant
+GMF1LT - German 1st Lieutenant
+
+USM2LT - United States 2nd Lieutenant
+GMF2LT - German 2nd Lieutenant
+
+USMMSGT - United States Master Sergeant
+GMFMSGT - German Master Sergeant
+
+USMSGT - United States Sergeant
+GMFSGT - German Sergeant
+
+USMCPL - United States Corporal
+GMFCPL - German Corporal
+
+USMLC - United States Lance Corporal
+GMFLC - German Lance Corporal
+
+USMPFC - United States Private First Class
+GMFPFC - German Private First Class
+
+USMPVT - United States Private
+GMFPVT - German Private
+
+-=Automatically Allowed To Join=-
+USMRecruit - United States Recruit
+GMFRecruit - German Recruit
+

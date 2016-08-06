@@ -1,0 +1,7 @@
+"Gamemode"
+{
+	"base"		"nutscript"
+	"title"		"MilitaryRP"
+	"author"	"StardewPanda"
+	"menusystem"	"1"
+}

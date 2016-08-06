@@ -1,0 +1,80 @@
+Ver. 0.1
+-Added UI
+-Fixed Character "Create"
+-Added Character Customization
+-Fixed Character "Finish"
+-Fixed Models Not Appearing
+-Added Factions 
+-Added Classes
+
+Ver. 0.2
+-Fixed Game Values
+-Added Voice Chat
+-Fixed Stamina Not Working
+-Fixed Random Sounds
+-Fixed Fixed Random Errors
+-Added Inventory
+-Added Radio
+-Added Flashlights
+
+Ver. 0.3
+-Added Faction: "Citizen"
+-Added Faction: "United States Marines - USM"
+-Added Faction: "German Military Forces - GMF"
+-Added Recruit To USM
+-Added Recruit To GMF
+
+Ver. 0.4
+-Added PVT To USM
+-Added PVT To GMF
+-Added PFC To USM
+-Added PFC To GMF
+-Added Lance Corporal To USM
+-Added Lance Corporal To GMF
+-Added Corporal To USM
+-Added Corporal To GMF
+-Added Sergeant To USM
+-Added Sergeant To GMF
+-Added Master Sergeant To USM
+-Added Master Sergeant To GMF
+-Added 2nd Lieutenant To USM
+-Added 2nd Lieutenant To GMF
+-Added 1st Lieutenant To USM
+-Added 1st Lieutenant To GMF
+-Added Captain To USM
+-Added Captain To GMF
+-Added Major To USM
+-Added Major To GMF
+-Added General To USM
+-Added General To GMF
+
+Ver. 0.5
+-Added Extra Plugins
+-Fixed Vendor
+-Fixed Whitelist Broken
+-Added A Few Commands
+
+Ver. 0.6
+-Added Custom Models for USM/GMF Private
+-Added Custom Models for USM/GMF Private First Class
+-Added Custom Models for USM/GMF Lance Corporal
+-Fixed Radio Sounds
+-Added Custom Models for USM/GMF Corporal
+-Added Custom Models for USM/GMF Sergeant
+-Added Custom Models for USM/GMF Master Sergeant
+-Added Custom Models for USM/GMF 2nd Lieutenant
+-Added Custom Models for USM/GMF 1st Lieutenant
+-Added Custom Models for USM/GMF Captain
+-Added Custom Models for USM/GMF Major
+-Added Custom Models for USM/GMF General
+-Fixed Attributes Bar not Working
+-Added new Map to our Server (RevenantRP)
+
+
+Ver. 0.7 
+-Added USM/GMF Loadouts to Factions (WORKING)
+
+
+
+
+
